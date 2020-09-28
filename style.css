@@ -1,0 +1,23 @@
+body {
+    font-size: 16px;
+    font: 1em sans-serif;
+}
+
+.container {
+    margin-left:50px;
+    margin-right: 50px;
+}
+
+.fonts-zoom {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    font-size: 1.5rem;
+}
+
+.fonts-zoom__plus {
+    border-radius: 50%;
+}
+.fonts-zoom__minus {
+    border-radius: 50%;
+}
